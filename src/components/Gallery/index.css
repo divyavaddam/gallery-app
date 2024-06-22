@@ -1,0 +1,28 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 60vh;
+}
+.heading {
+  font-size: 20px;
+  margin-left: -350px;
+}
+.para {
+  font-size: 13px;
+  margin-left: -370px;
+  color: #64748b;
+}
+.unordered-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: -20px;
+}
